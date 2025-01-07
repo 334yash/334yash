@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=334yash" alt="334yash" /></a> </p>
 
-- 🌱 I’m currently learning **kali linux**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
